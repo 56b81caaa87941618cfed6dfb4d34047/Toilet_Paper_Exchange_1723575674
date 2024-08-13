@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the dark brown background, do you prefer a solid color or a patterned design?\", \"option1\": \"Solid dark brown\", \"option2\": \"Patterned dark brown design\"}, {\"question 2\": \"Should this color change apply to all pages of the app or only specific ones?\", \"option1\": \"Apply to all pages\", \"option2\": \"Apply only to specific pages (please specify which)\"}], \"input_token_count\": 304, \"output_token_count\": 100, \"time_taken\": \"0:00:03.273295\"}",
         "timestamp": "13082024190419",
         "message_id": "guest13082024190415"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a color theme selection option for user customization\", \"checked\": true}, {\"feature\": \"Implement a dark mode for better night-time viewing\", \"checked\": false}, {\"feature\": \"Incorporate texture options for background customization to enhance UX design\", \"checked\": false}, {\"feature\": \"Automatic background color adjustment based on the time of day\", \"checked\": false}, {\"feature\": \"Offer a preview mode to see background changes in real-time before applying\", \"checked\": true}], \"input_token_count\": 258, \"output_token_count\": 114, \"time_taken\": \"0:00:03.684957\"}",
+        "timestamp": "13082024190419",
+        "message_id": "guest13082024190415"
     }
 ]
