@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which shade of blue do you prefer for the background?\", \"option1\": \"Light blue for a softer, approachable look\", \"option2\": \"Dark blue for a more professional, trust-inspiring appearance\"}, {\"question 2\": \"Do you want the blue background applied globally across the entire app or only in specific sections?\", \"option1\": \"Apply globally across the entire app\", \"option2\": \"Apply only in specific sections\"}], \"input_token_count\": 258, \"output_token_count\": 104, \"time_taken\": \"0:00:03.016767\"}",
+        "message_id": "guest13082024190145",
+        "timestamp": "13082024190148",
+        "component_file_name": "purple_background_cta_component_1723575676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, switching the background to blue.",
         "message_id": "guest13082024190145",
