@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the dark brown background, do you prefer a solid color or a patterned design?\", \"option1\": \"Solid dark brown\", \"option2\": \"Patterned dark brown design\"}, {\"question 2\": \"Should this color change apply to all pages of the app or only specific ones?\", \"option1\": \"Apply to all pages\", \"option2\": \"Apply only to specific pages (please specify which)\"}], \"input_token_count\": 304, \"output_token_count\": 100, \"time_taken\": \"0:00:03.273295\"}",
+        "message_id": "guest13082024190415",
+        "timestamp": "13082024190419",
+        "component_file_name": "purple_header_component_1723575676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, I'll work on changing the background to dark brown.",
         "message_id": "guest13082024190415",
