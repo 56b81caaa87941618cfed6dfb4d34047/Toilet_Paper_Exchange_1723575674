@@ -36,5 +36,11 @@
         "content": "Understood, I'll work on changing the background to dark brown.",
         "timestamp": "13082024190415",
         "message_id": "guest13082024190415"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the dark brown background, do you prefer a solid color or a patterned design?\", \"option1\": \"Solid dark brown\", \"option2\": \"Patterned dark brown design\"}, {\"question 2\": \"Should this color change apply to all pages of the app or only specific ones?\", \"option1\": \"Apply to all pages\", \"option2\": \"Apply only to specific pages (please specify which)\"}], \"input_token_count\": 304, \"output_token_count\": 100, \"time_taken\": \"0:00:03.273295\"}",
+        "timestamp": "13082024190419",
+        "message_id": "guest13082024190415"
     }
 ]
